@@ -1,4 +1,4 @@
-# 📺 Full-Stack YouTube Clone
+# 📺 Full-Stack YouTube Studio Clone
 
 A fully functional, responsive video-sharing platform built with the MERN stack. This application replicates core YouTube features, providing both viewer and creator experiences with seamless video streaming, social interactions, and content management.
 
